@@ -1,12 +1,16 @@
-# project-1
-- [Table of Contents](#heading)
+# Table of Contents
+- [Installation](#heading)
+- [Project Motivation](#heading)
+- [Project Files](#heading)
+- [Results](#heading)
+- [Acknowledgements](#heading)
 
 # Installation
 
-# motivation for project
+# Project Motivation
 
-# files in the repository
+# Project Files
 
-# summary of the ressults of the analysis
+# Results
 
-# necessary acknowledgements
+# Acknowledgements
