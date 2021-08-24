@@ -8,9 +8,9 @@
 ## Installation <a name="i"></a>
 The code should run with Python version 3 and the following python libraries:
 
-numpy
-pandas
-matplotlib.pyplot
+numpy__
+pandas__
+matplotlib.pyplot__
 IPython
 statistics
 %matplotlib inline
