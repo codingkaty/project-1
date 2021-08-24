@@ -5,12 +5,12 @@
 - [Results](#heading)
 - [Acknowledgements](#heading)
 
-# Installation
+## Installation
 
-# Project Motivation
+## Project Motivation
 
-# Project Files
+## Project Files
 
-# Results
+## Results
 
-# Acknowledgements
+## Acknowledgements
