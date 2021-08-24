@@ -28,7 +28,10 @@ I analyzed StackOverflow data from 2011-2020 to analyze trends in coding languag
 
 
 ## Project Files <a name="pf"></a>
+There is one notebook cotaining the worl showcasing the results of my analysis.
 
 ## Results <a name="r"></a>
+Please view the results in my Medium blog post. 
 
 ## Acknowledgements <a name="a"></a>
+All data was provided by StackOverflow surveys.
