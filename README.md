@@ -6,6 +6,17 @@
 - [Acknowledgements](#a)
 
 ## Installation <a name="i"></a>
+The code should run with Python version 3 and the following python libraries:
+-numpy
+-pandas
+-matplotlib.pyplot
+-IPython
+-statistics
+-%matplotlib inline
+-re
+-category encoders
+-seaborn
+
 
 ## Project Motivation <a name="pm"></a>
 
