@@ -1,9 +1,9 @@
 # Table of Contents
 - [Installation](#installation)
-- [Project Motivation](#heading-1)
-- [Project Files](#heading-2)
-- [Results](#heading-3)
-- [Acknowledgements](#heading-4)
+- [Project Motivation](#Project Motivation)
+- [Project Files](#Project Files)
+- [Results](#Results)
+- [Acknowledgements](#Acknowledgements)
 
 ## Installation
 sdfjkgsjkdfhgishdfk;jbhnsklxdfnjskfnj
