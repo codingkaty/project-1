@@ -1,16 +1,16 @@
 # Table of Contents
-- [Installation](#installation)
-- [Project Motivation](#Project Motivation)
-- [Project Files](#Project Files)
-- [Results](#Results)
-- [Acknowledgements](#Acknowledgements)
+- [Installation](#i)
+- [Project Motivation](#pm)
+- [Project Files](#pf)
+- [Results](#r)
+- [Acknowledgements](#a)
 
-## Installation
-sdfjkgsjkdfhgishdfk;jbhnsklxdfnjskfnj
-## Project Motivation
+## Installation <a name="i"></a>
 
-## Project Files
+## Project Motivation <a name="pm"></a>
 
-## Results
+## Project Files <a name="pf"></a>
 
-## Acknowledgements
+## Results <a name="r"></a>
+
+## Acknowledgements <a name="a"></a>
