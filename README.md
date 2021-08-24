@@ -1,5 +1,5 @@
 # Table of Contents
-- [Installation](#heading)
+- [Installation](#installation)
 - [Project Motivation](#heading-1)
 - [Project Files](#heading-2)
 - [Results](#heading-3)
