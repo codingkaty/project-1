@@ -21,7 +21,8 @@ The code should run with Python version 3 and the following python libraries:
 
 ## Project Motivation <a name="pm"></a>
 I analyzed StackOverflow data from 2011-2020 to analyze trends in coding languages and job satisfaction over time. My results answer the following questions:
-1. Is there any correlation between specific languages and job satisfaction?
+1. Is there any correlation between the number of languages known and job satisfaction?
+2. (maybe this?) Do individuals who know more languages tend to have higher job satisfaction?
 
 
 ## Project Files <a name="pf"></a>
