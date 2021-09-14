@@ -20,13 +20,15 @@ The code should run with Python version 3 and the following python libraries:
 
 
 ## Project Motivation <a name="pm"></a>
-I analyzed StackOverflow data from 2011-2020 to analyze trends in coding languages and job satisfaction over time. My results answer the following questions:
-1. Is there any correlation between the number of languages known and job satisfaction?
-2. (maybe this?) Do individuals who know more languages tend to have higher job satisfaction?
+I analyzed StackOverflow 2017 survey data to dive into the following topics.
+1. Does the number of langauges you know influence satisfaction in your career?
+2. do people who prefer noise while working want coworkers to work quietly? 
+3. What influences an individual to seek new job opportunities? 
 
 
 ## Project Files <a name="pf"></a>
-There is one notebook cotaining the work showcasing the results of my analysis.
+There are three notebooks cotaining the work showcasing the results of my analysis. Each notebook is structured with markdown cells that explain the process. 
+
 
 ## Results <a name="r"></a>
 Please view the results in my Medium blog post. 
