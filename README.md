@@ -31,7 +31,7 @@ There are three notebooks cotaining the work showcasing the results of my analys
 
 
 ## Results <a name="r"></a>
-Please view the results in my Medium blog post. 
+Please view the results in my [Medium](https://medium.com/@martinez.kaitlyn55/can-we-use-data-to-answer-questions-about-our-work-environment-b688e6303515) blog post. 
 
 ## Acknowledgements <a name="a"></a>
 All data was provided by the 2017 StackOverflow survey.
